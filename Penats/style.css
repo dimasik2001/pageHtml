@@ -1,0 +1,153 @@
+body
+{
+    background-color: black;
+}
+#title1
+{
+position: absolute;
+width: 639px;
+height: 135px;
+left: 143px;
+top: 137px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 45px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+#title2
+{
+position: absolute;
+width: 676px;
+height: 140px;
+left: 143px;
+top: 352px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 35px;
+display: flex;
+align-items: center;
+letter-spacing: 0.025em;
+
+color: #FFFFFF;
+}
+
+#man
+{
+position: absolute;
+width: 850px;
+height: 769px;
+left: 737px;
+top: 34px;
+}
+#rect1
+{
+position: absolute;
+width: 340px;
+height: 72px;
+left: 143px;
+top: 643px;
+border-radius: 0% 21% 0% 20% / 40% 93% 0% 100% ;
+background: linear-gradient(93.08deg, #FFB02D -5.34%, #F95E51 58.71%, #9D1B55 121.07%, #9D1B55 121.07%);
+}
+#title3
+{
+position:relative;
+width: 239px;
+height: 36px;
+left: 107px;
+top: 15px;
+font-family: Cormorant Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.about
+{
+position: absolute;
+width: 192px;
+height: 49px;
+left: 200px;
+top: 955px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#company
+{
+position: absolute;
+width: 219px;
+height: 49px;
+left: 543.34px;
+top: 1043.29px;
+transform: rotate(90deg);
+}
+.line
+{
+width: 437px;
+height: 2px;
+position: absolute;
+left: 298.99px;
+top: 1027.94px;
+background: linear-gradient(93.08deg, #FFB02D -5.34%, #F95E51 58.71%, #9D1B55 121.07%, #9D1B55 121.07%);
+}
+#line1
+{
+width: 168.01px;
+height: 2px;
+}
+#workplace
+{
+    position: absolute;
+    width: 318px;
+    height: 472px;
+    left: 141px;
+    top: 1053px;
+}
+#landscape
+{
+    position: absolute;
+    width: 456px;
+    height: 300px;
+    left: 300px;
+    top: 1393px; 
+}
+#discription
+{
+position: absolute;
+width: 629px;
+height: 195px;
+left: 696px;
+top: 1101px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF
+}
